@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxext="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" creator="tapiriik-sync">
+  <metadata/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.81458433903754" lon="-93.36914017796516">
+        <time>2011-10-12T22:33:43+00:00</time>
+        <ele>269.3999938964844</ele>
+      </trkpt>
+      <trkpt lat="44.81468056328595" lon="-93.36925216019154">
+        <time>2011-10-12T22:33:49+00:00</time>
+        <ele>269.3999938964844</ele>
+      </trkpt>
+      <trkpt lat="44.81477485969663" lon="-93.36942457593977">
+        <time>2011-10-12T22:33:56+00:00</time>
+        <ele>270.20001220703125</ele>
+      </trkpt>
+      <trkpt lat="44.81483655050397" lon="-93.36962238885462">
+        <time>2011-10-12T22:34:03+00:00</time>
+        <ele>269.3999938964844</ele>
+      </trkpt>
+      <trkpt lat="44.814836382865906" lon="-93.36976496502757">
+        <time>2011-10-12T22:34:08+00:00</time>
+        <ele>266.3999938964844</ele>
+      </trkpt>
+      <trkpt lat="44.81481324881315" lon="-93.36984098888934">
+        <time>2011-10-12T22:34:13+00:00</time>
+        <ele>265.0</ele>
+      </trkpt>
+      <trkpt lat="44.81478248722851" lon="-93.36986898444593">
+        <time>2011-10-12T22:34:20+00:00</time>
+        <ele>267.0</ele>
+      </trkpt>
+      <trkpt lat="44.81478885747492" lon="-93.36989086121321">
+        <time>2011-10-12T22:34:24+00:00</time>
+        <ele>266.0</ele>
+      </trkpt>
+      <trkpt lat="44.81478525325656" lon="-93.36991047486663">
+        <time>2011-10-12T22:34:26+00:00</time>
+        <ele>266.0</ele>
+      </trkpt>
+      <trkpt lat="44.81474309228361" lon="-93.37001508101821">
+        <time>2011-10-12T22:34:34+00:00</time>
+        <ele>267.79998779296875</ele>
+      </trkpt>
+      <trkpt lat="44.814737644046545" lon="-93.37005858309567">
+        <time>2011-10-12T22:34:41+00:00</time>
+        <ele>270.79998779296875</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

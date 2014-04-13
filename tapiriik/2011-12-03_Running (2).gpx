@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxext="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" creator="tapiriik-sync">
+  <metadata/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.88296415656805" lon="-93.8956581428647">
+        <time>2011-12-03T17:59:59+00:00</time>
+        <ele>291.79998779296875</ele>
+      </trkpt>
+      <trkpt lat="44.883123664185405" lon="-93.89570424333215">
+        <time>2011-12-03T18:02:49+00:00</time>
+        <ele>302.0</ele>
+      </trkpt>
+      <trkpt lat="44.883151659742" lon="-93.89570315368474">
+        <time>2011-12-03T18:03:00+00:00</time>
+        <ele>302.3999938964844</ele>
+      </trkpt>
+      <trkpt lat="44.88313129171729" lon="-93.89572377316654">
+        <time>2011-12-03T18:03:16+00:00</time>
+        <ele>298.20001220703125</ele>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="44.88298695534468" lon="-93.89581044204533">
+        <time>2011-12-03T23:08:32+00:00</time>
+        <ele>298.20001220703125</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
